@@ -1,0 +1,8 @@
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\bin\Debug\WindowsHello.exe.config
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\bin\Debug\WindowsHello.exe
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\bin\Debug\WindowsHello.pdb
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\obj\Debug\WindowsHello.Form1.resources
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\obj\Debug\WindowsHello.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\obj\Debug\WindowsHello.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\obj\Debug\WindowsHello.exe
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\WindowsHello\obj\Debug\WindowsHello.pdb

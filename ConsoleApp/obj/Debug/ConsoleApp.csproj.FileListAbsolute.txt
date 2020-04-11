@@ -1,0 +1,10 @@
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\bin\Debug\ConsoleHello.exe.config
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\bin\Debug\ConsoleHello.xml
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\bin\Debug\ConsoleHello.exe
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\bin\Debug\ConsoleHello.pdb
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleHello.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleHello.exe
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleHello.pdb
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Валерий\Desktop\Новая папка\ConsoleApp\ConsoleApp\obj\Debug\ConsoleHello.Form1.resources
